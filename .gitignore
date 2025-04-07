@@ -20,6 +20,8 @@ venv/
 env/
 ENV/
 
+carla_simulation code/slam_code/
+
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
