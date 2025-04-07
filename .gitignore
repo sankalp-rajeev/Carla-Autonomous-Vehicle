@@ -1,21 +1,31 @@
-CARLA/
-CARLA-0.10.0-Win64-Shipping/
+# Ignore CARLA build folder
+CARLA0.9/
 
-# Ignore compiled files
+# Ignore cache folders
+**/cache/
+cache/
+
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
-*.pyo
-*.log
+*.py[cod]
+*$py.class
 
-# Ignore models (upload separately if needed)
-models/
-*.pt
-carla_simulation code/slam.py
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
 
-# Ignore datasets (if needed)
-datasets/
-presentation.pdf/
+# Virtual environments
+venv/
+env/
+ENV/
 
-# Ignore unnecessary system files
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS & system files
 .DS_Store
 Thumbs.db
+
+# VSCode settings (optional, if you use it)
+.vscode/
