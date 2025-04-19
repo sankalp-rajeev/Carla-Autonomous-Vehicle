@@ -105,9 +105,7 @@ Below are qualitative outputs from various components of the system:
 
 ### Full System Demo
 
-[![Watch the demo]](https://www.youtube.com/watch?v=lP6mK7VfUtQ)
-
-> 🔗 [Click here to watch the full demo](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[[Watch the demo]](https://www.youtube.com/watch?v=lP6mK7VfUtQ)
 
 ---
 
